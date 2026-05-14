@@ -1,6 +1,6 @@
 ---
 title: Initial Research and Development
-date: Week 6
+date: 2026-03-29
 author: Kieu-An Nguyen
 summary: Background Research + Competitor Analysis
 tags:
