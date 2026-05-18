@@ -10,7 +10,7 @@ tags:
 ---
 To be honest, after reading the assignment brief, I was lost and had no clue on how to attack this assignment. Despite rereading the brief, I drew blanks. With no clear starting point, I decided to pivot by analysing and breaking down what makes current ‘community hubs’ so successful, and what key components it’s comprised of. The table below contains notes of my research and doubles up as competitor analysis.
 
-![Background Research](BGResearch.png)
+![Background Research](images/BGReasearch.png)
 
 Drawing from my research, I believe that what makes these applications so popular is that each one helps the user accomplish very specific goals. For example, reddit is useful for finding niche information, trouble shooting problems, and searching for product reviews. In contrast, HelloTalk is a popular language exchange app where it is easy to connect with people with the mutual goal of improving their language skills. 
 

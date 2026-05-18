@@ -39,14 +39,14 @@ After further planning of the backend system for ‘After Dark’, we revisited 
 </details>
 
 ## Wireframes
-![Image Upload](W2.png)
-![Explore page and Chat Feature](W3.png)
-![Landing Page](W4.png)
-![Business Search Function and Business Profile](W5.png)
+![Image Upload](images/W2.png)
+![Explore page and Chat Feature](images/W3.png)
+![Landing Page](images/W4.png)
+![Business Search Function and Business Profile](images/W5.png)
 
 <details>
   <summary>Initial Wireframes</summary>
-  
-![Early Wireframes](W1.png)
-![Early Wireframes](W6.png)
+
+![Early Wireframes](images/W1.png)
+![Early Wireframes](images/W6.png)
 </details>
