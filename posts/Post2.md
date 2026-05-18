@@ -13,7 +13,7 @@ During the public holiday and mid-semester break, progress on this project was s
 
 Drawing on my findings from Week 6, I proposed five ideas that targeted certain niches or had clear user-oriented outcomes. However, while niche, most did not feel unique enough to attract or sustain users and were therefore rejected. After narrowing the options down to three key concepts, we used a decision matrix to evaluate which direction to pursue. The criteria included uniqueness, feasibility, community impact, scalability, and overall concept attractiveness, each rated on a 5-point scale. At this stage, we were already leaning towards the “After Dark” concept, but the decision matrix was used to validate and justify this choice.
 
-![Decision Matrix](images/DM.png)
+![Decision Matrix](DM.png)
 
 What makes me believe in the potential of ‘After Dark’ is that it addresses a genuine inconvenience embedded within Australian commercial culture: the difficulty of completing essential tasks after standard working hours have ended. In Australia, the majority of retail stores, services, and businesses close relatively early, which often leaves full-time workers limited opportunities to run errands or access services without adjusting their schedule. Our community hub responds to this gap by creating a centralised platform that helps users discover and connect with businesses, services, spaces, and opportunities available late at night. Rather than forcing people to reorganise their schedules around restrictive operating hours, the community hub supports greater flexibility and convenience, allowing individuals to complete tasks at their own leisure.
 
