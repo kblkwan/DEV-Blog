@@ -39,14 +39,31 @@ After further planning of the backend system for ‘After Dark’, we revisited 
 </details>
 
 ## Wireframes
-![Image Upload](images/W2.png)
-![Explore page and Chat Feature](images/W3.png)
-![Landing Page](images/W4.png)
-![Business Search Function and Business Profile](images/W5.png)
+<details>
+  <summary>Post Upload</summary>
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W2.png" width="720">
+</details>
+
+<details>
+  <summary>Explore page and Chat Feature</summary>
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W3.png" width="720">
+</details>
+
+<details>
+  <summary>Landing Page</summary>
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W4.png" width="720">
+</details>
+
+<details>
+  <summary>Business Search Function and Business Profile</summary>
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W5.png" width="720">
+</details>
 
 <details>
   <summary>Initial Wireframes</summary>
 
-![Early Wireframes](images/W1.png)
-![Early Wireframes](images/W6.png)
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W1.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W6.png" width="720">
+
 </details>
