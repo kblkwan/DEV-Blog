@@ -22,7 +22,7 @@ Once our working prototype is available, testing will focus on system level chec
 
 ## Basic User Flow
 
-| Step | User Action | System Response |
+|  | User Action | System Response |
 |------|------------|-----------------|
 | 1 | Business advertises their services on their profile and/or creates a post| The user’s profile and/or post becomes visible within the community feed |
 | 2 | User chooses to publish a post to request help from others | The system opens the 'Create Post' interface |
