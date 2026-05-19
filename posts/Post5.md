@@ -23,7 +23,7 @@ Once our working prototype is available, testing will focus on system level chec
 ## Basic User Flow
 
 |  | User Action | System Response |
-|------|------------|-----------------|
+|-------|-------------|------------------|
 | 1 | Business advertises their services on their profile and/or creates a post| The user’s profile and/or post becomes visible within the community feed |
 | 2 | User chooses to publish a post to request help from others | The system opens the 'Create Post' interface |
 | 3 | User writes and submits a post outlining their request | The system validates and prepares the post for publishing |
@@ -38,3 +38,10 @@ In the coming weeks, we aim to:
 - [ ] Refine backend data structures and systems
 - [ ] Complete user testing and analysis
 
+## Appendix
+<details>
+  <summary>AI Acknowledgment</summary>
+ChatGPT was used to help improve writing clarity, grammar, structure, and troubleshoot technical issues throughout my blog. All AI-generated content was reviewed and edited, and all design decisions and ideas are my original work.
+
+This use of AI is acknowledged in accordance with the University of Sydney’s guidelines on generative AI in education (University of Sydney, 2024).
+</details>

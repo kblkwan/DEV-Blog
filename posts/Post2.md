@@ -11,7 +11,7 @@ tags:
 ---
 During the public holiday and mid-semester break, progress on this project was staggered and no clear direction had been finalised. In class, we made it our priority to settle on a concept, and by the end of a lengthy discussion we had committed to an idea, ‘After Dark’.
 
-Drawing on my findings from Week 6, I proposed five ideas that targeted certain niches or had clear user-oriented outcomes. However, while niche, most did not feel unique enough to attract or sustain users and were therefore rejected. After narrowing the options down to three key concepts, we used a decision matrix to evaluate which direction to pursue. The criteria included uniqueness, feasibility, community impact, scalability, and overall concept attractiveness, each rated on a 5-point scale. At this stage, we were already leaning towards the “After Dark” concept, but the decision matrix was used to validate and justify this choice.
+Drawing on my findings from Week 6, I proposed five ideas that targeted certain niches or had clear user-oriented outcomes. However, while niche, most did not feel unique enough to attract or sustain users and were therefore rejected. After narrowing the options down to three key concepts, we used a decision matrix to evaluate which direction to pursue. The criteria included uniqueness, feasibility, community impact, scalability, and overall concept attractiveness, each rated on a 5-point scale. At this stage, we were already leaning towards the 'After Dark' concept, but the decision matrix was used to validate and justify this choice.
 
 <img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/DM.png" width="720">
 
@@ -99,14 +99,14 @@ An app that assists people in completing tasks after the sun has set when most s
 
 Key Features:
 - Evening and night-time specific marketplace with listings of services or restaurants available after usual closing hours
-- “What’s open now” live listings
+- 'What’s open now' live listings
 - Urgent or emergency request posts
 - A space where students or trainees can freelance for extra cash
 - Option to filter between free and paid services
 - Community forum and social feed
 - Smart prompts for posting requests or specific search categories
 - Location-based discovery
-- Real-time chat for quick coordination
-- In-app payments
+- Real time chat for quick coordination
+- In app payments
 
 
