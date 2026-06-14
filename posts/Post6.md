@@ -96,7 +96,7 @@ Website load performance was evaluated using Chrome DevTools Network testing und
 <img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Load%20Test.png" width="720">
 
 <details>
-  <summary>Testing</summary>
+  <summary>Testing Results</summary>
 
 <img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/t1.png" width="720">
 
