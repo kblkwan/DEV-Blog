@@ -98,9 +98,13 @@ Website load performance was evaluated using Chrome DevTools Network testing und
 <details>
   <summary>Testing</summary>
 
-<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W1.png" width="720">
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/t1.png" width="720">
 
-<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W6.png" width="720">
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/t2.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/t3.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/t4.png" width="720">
 
 </details>
 
