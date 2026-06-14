@@ -72,9 +72,21 @@ Additional usability issues were flagged on the Explore page, where several inte
 <details>
   <summary>Lighthouse Test Results</summary>
 
-<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W1.png" width="720">
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh1.png" width="720">
 
-<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W6.png" width="720">
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh2.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh3.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh4.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh5.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh6.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh7.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Lh8.png" width="720">
 
 </details>
 
@@ -82,6 +94,15 @@ Additional usability issues were flagged on the Explore page, where several inte
 Website load performance was evaluated using Chrome DevTools Network testing under consistent conditions, with the browser cache disabled and throttling applied across Slow 4G, Fast 4G, and No Throttling settings. While the application loaded efficiently without throttling, performance dropped significantly under constrained network conditions, particularly on the ‘Profile’ and ‘Search Results’ pages, which increased to 40.02 seconds and 1.5 minutes on Slow 4G. This suggests that the issue is not only caused by the testing environment, but also by how the website currently handles larger assets, user profile content, database-driven results, and image loading. As the platform scales, this may become a greater concern if more user-generated content, images, and search data are loaded at once. These findings align with image loading issues identified during development and indicate that future iterations should prioritise compression, lazy loading, asset optimisation, and more efficient data retrieval.
 
 <img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Load%20Test.png" width="720">
+
+<details>
+  <summary>Testing</summary>
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W1.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W6.png" width="720">
+
+</details>
 
 ---
 ## AI-Assisted Website Development and Reflection
