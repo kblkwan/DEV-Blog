@@ -26,12 +26,12 @@ The core features that are functional in the final prototype include:
 - [ ] View personal posts and requests on the profile page
 - [ ] Interactive navbar and hamburger sidebar
 - [ ] Explore nearby listings on an AI-generated map
----
+
 #### Incomplete Features:
 - Reviews are currently a placeholder, can’t be submitted and additional content does not load when you press ‘more reviews’
 - Posts displayed on the business profiles are static images and do not redirect users to the relevant post page
 - The settings page is a placeholder and does not currently include functional account controls
-
+---
 ## Future Improvements
 
 ### Technical and Database Improvements
@@ -56,7 +56,7 @@ The core features that are functional in the final prototype include:
 ### Other
 * [ ] Redesign the logo to better align with the After Dark brand identity
 
-
+---
 ## Prototype Testing and Evaluation
 
 ### Pilot Test
@@ -72,10 +72,10 @@ Additional usability issues were flagged on the Explore page, where several inte
 ### Chrome DevTools Network Load Test
 Website load performance was evaluated using Chrome DevTools Network testing under consistent conditions, with the browser cache disabled and throttling applied across Slow 4G, Fast 4G, and No Throttling settings. While the application loaded efficiently without throttling, performance dropped significantly under constrained network conditions, particularly on the ‘Profile’ and ‘Search Results’ pages, which increased to 40.02 seconds and 1.5 minutes on Slow 4G. This suggests that the issue is not only caused by the testing environment, but also by how the website currently handles larger assets, user profile content, database-driven results, and image loading. As the platform scales, this may become a greater concern if more user-generated content, images, and search data are loaded at once. These findings align with image loading issues identified during development and indicate that future iterations should prioritise compression, lazy loading, asset optimisation, and more efficient data retrieval.
 
-Add Image 
 
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Load%20Test.png" width="720">
 
-
+---
 ## AI-Assisted Website Development and Reflection
 
 A key lesson from this project was that AI-assisted development still requires precise technical direction. While tools such as ChatGPT, Figma plugins, and Codex helped convert wireframes into a functioning prototype more efficiently, the process also exposed the limitations of relying on prompts without clearly defining system behaviour.
