@@ -69,9 +69,17 @@ To address these issues, I would revisit the colour system using accessibility t
 
 Additional usability issues were flagged on the Explore page, where several interactive map markers overlapped within the map interface. This reduced visual clarity and weakened the page’s usability, as users could not easily distinguish between nearby locations. The map was originally intended to use Google Maps as its source, but due to integration difficulties, an AI-generated map was used as a temporary substitute. In future iterations, Google Maps integration would allow markers to be clustered, filtered, zoomed, or expanded, helping users identify nearby services more efficiently while reducing visual clutter. I would also refine the page hierarchy so that location details, categories, and key actions are visually separated and easier to interpret.
 
+<details>
+  <summary>Lighthouse Test Results</summary>
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W1.png" width="720">
+
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/W6.png" width="720">
+
+</details>
+
 ### Chrome DevTools Network Load Test
 Website load performance was evaluated using Chrome DevTools Network testing under consistent conditions, with the browser cache disabled and throttling applied across Slow 4G, Fast 4G, and No Throttling settings. While the application loaded efficiently without throttling, performance dropped significantly under constrained network conditions, particularly on the ‘Profile’ and ‘Search Results’ pages, which increased to 40.02 seconds and 1.5 minutes on Slow 4G. This suggests that the issue is not only caused by the testing environment, but also by how the website currently handles larger assets, user profile content, database-driven results, and image loading. As the platform scales, this may become a greater concern if more user-generated content, images, and search data are loaded at once. These findings align with image loading issues identified during development and indicate that future iterations should prioritise compression, lazy loading, asset optimisation, and more efficient data retrieval.
-
 
 <img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/Load%20Test.png" width="720">
 
@@ -80,7 +88,7 @@ Website load performance was evaluated using Chrome DevTools Network testing und
 
 A key lesson from this project was that AI-assisted development still requires precise technical direction. While tools such as ChatGPT, Figma plugins, and Codex helped convert wireframes into a functioning prototype more efficiently, the process also exposed the limitations of relying on prompts without clearly defining system behaviour.
 
-Add image
+<img src="https://raw.githubusercontent.com/kblkwan/DEV-Blog/refs/heads/main/posts/images/DevFlowNew.png" width="720">
 
 During development, I focused on building reusable components such as the navigation bar, page layouts, and repeated card structures. This helped maintain visual consistency across the site, but I did not clearly distinguish between static placeholders and content that should update dynamically from the database. As a result, some posts, requests, profile images, and numerical indicators were duplicated or remained disconnected from user-generated data. This weakened the credibility of the prototype because certain features appeared interactive but did not fully respond to user activity.
 
