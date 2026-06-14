@@ -26,7 +26,7 @@ The core features that are functional in the final prototype include:
 - [ ] View personal posts and requests on the profile page
 - [ ] Interactive navbar and hamburger sidebar
 - [ ] Explore nearby listings on an AI-generated map
-
+---
 #### Incomplete Features:
 - Reviews are currently a placeholder, can’t be submitted and additional content does not load when you press ‘more reviews’
 - Posts displayed on the business profiles are static images and do not redirect users to the relevant post page
