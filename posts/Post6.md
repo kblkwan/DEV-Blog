@@ -118,16 +118,18 @@ A key lesson from this project was that AI-assisted development still requires p
 During development, I focused on building reusable components such as the navigation bar, page layouts, and repeated card structures. This helped maintain visual consistency across the site, but I did not clearly distinguish between static placeholders and content that should update dynamically from the database. As a result, some posts, requests, profile images, and numerical indicators were duplicated or remained disconnected from user-generated data. This weakened the credibility of the prototype because certain features appeared interactive but did not fully respond to user activity.
 
 For future iterations, I would redefine the database structure, dynamic content rules, and placeholder logic before building new features. This process would include identifying which components should retrieve data from specific tables, which values should update through user interaction, and which elements are only temporary visual placeholders. I would also need to go back and clean up the database by removing duplicate records and outdated placeholder data so that new uploaded content does not get mixed in with the old. These changes would make After Dark feel more reliable, scalable, and closer to a real community platform.
+
 ---
 ## User Experience and Accessibility
 Overall, the interface is mostly intuitive, particularly in areas that follow familiar web conventions. The login and create account pages are straightforward because they use recognisable form layouts, while the navbar, hamburger menu, and interactive buttons give users multiple ways to move between features. This makes the site easy to explore, even when users are not yet familiar with its structure.
 
 However, the user experience is limited by the lack of rich data. While the prototype includes a functional database for users, posts, requests, services, and business information, it currently lacks the volume of organic content needed to demonstrate its full potential. Without enough user-generated data, the website functions more as a technical framework than a living community hub, limiting the depth of search results, recommendations, and interactions that would make the platform genuinely useful. As the database grows and more users upload content, the platform’s value would increase through stronger search results, more relevant interactions, and greater community activity. Responsiveness also remains a limitation, as several pages do not adapt well to smaller screens, which means the current version of ‘After Dark’ is only suitable for laptop and desktop use.
+
 ---
 ## Reflection
 Upon reflection, some of the original development goals for After Dark were ambitious and could not be fully achieved within my current technical skill set and project timeframe. As a result, several intended features were represented through static images or AI-generated placeholder content, which communicated the intended functionality but did not provide the best user experience. In future projects, I would spend more time researching implementation strategies before development, particularly for complex features such as map integration, dynamic content, and data security systems. Working on this project taught me that a successful web application is not only defined by the number of features it includes, but by how reliably those features function, scale, and support real user needs.
 
----
+
 ## Appendix
 <details>
   <summary>AI Acknowledgment</summary>
